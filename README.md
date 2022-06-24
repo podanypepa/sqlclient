@@ -7,7 +7,7 @@ SQL client for easy mocking connection to the SQL server and unit testing.
 
 ## 1. Testing example
 
-You can write standart tests with started Mock sever which separate you from
+You can write standard tests with started Mock server which separate you from 
 fyzical server.
 
 ```go

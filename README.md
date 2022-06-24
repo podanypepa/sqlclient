@@ -109,8 +109,8 @@ func main() {
 	}
 
 	type data struct {
-			ID   int
-			Name string
+		ID   int
+		Name string
 	}
 
 	for res.Next() {

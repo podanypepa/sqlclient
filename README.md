@@ -108,6 +108,11 @@ func main() {
 		log.Fatal(err)
 	}
 
+	type data struct {
+			ID   int
+			Name string
+	}
+
 	for res.Next() {
 		var d data
 		err := res.Scan(&d.ID, &d.Name)

@@ -1,5 +1,7 @@
 # sqlclient
-Go SQL client
+
+Go SQL client: wrapper on `"database/sql"` for easy testing app with connection
+to the SQL server.
 
 ## Why?
 

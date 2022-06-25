@@ -5,7 +5,9 @@ to the SQL server.
 
 ## Why?
 
-SQL client for easy mocking connection to the SQL server and unit testing.
+Because we have problem with writing unit tests on part of apps witch using 
+connection to sql server. SQL client for easy mocking connection to the SQL 
+server and unit testing.
 
 ## 1. Testing example
 
